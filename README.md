@@ -1,7 +1,6 @@
 
 ## 🌟 interested in
-- `네트워크`, `컴퓨터 시스템` 공부 중입니다.
-- 이것저것 찍먹 예정중! 
+
 
 ## 🌱 learning
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
