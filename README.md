@@ -1,4 +1,4 @@
-![svg](https://github.com/1006lem/Readme-test/assets/68532437/def61921-0d80-4889-826d-479da7d658bf)
+
 
 <!--
 ## 🌟 interested in
