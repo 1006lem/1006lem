@@ -4,6 +4,7 @@
 
 Undergraduate student at Computer Engineering
 
+<br>
 
 <h2>🛠️Tech Stack</h2>
 
@@ -17,7 +18,7 @@ Undergraduate student at Computer Engineering
 - **Cloud/DevOps**: Kubernetes, Docker, AWS
 - **Languages**: Python, Golang
 
-
+<br>
 
 <h2>🚀Experience</h2>
 
@@ -33,7 +34,7 @@ Undergraduate student at Computer Engineering
 
 - **Dankook University, B.S. in Computer Engineering** (2020.3 ~ 2025.2)
 
-  
+<br>
 
 <h2>📧 Contact</h2>
 
