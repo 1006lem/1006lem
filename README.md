@@ -22,7 +22,7 @@ Undergraduate student at Computer Engineering
 
 <h2>🚀Experience</h2>
 
-- **goorm PROFECT Cloud Engineering Project** (2024.1.31 ~ Present)
+- **goorm PROFECT Cloud Engineering Project** (2025.1.31 ~ Present)
 
 - **Suit** (2024.10 ~ Present)
 
