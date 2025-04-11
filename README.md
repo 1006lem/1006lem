@@ -2,8 +2,6 @@
 
 ☁️ **Devops / Cloud Engineer**
 
-Undergraduate student at Computer Engineering
-
 <br>
 
 <h2>🛠️Tech Stack</h2>
@@ -23,14 +21,18 @@ Undergraduate student at Computer Engineering
 <h2>🚀Experience</h2>
 
 - **goorm PROFECT Cloud Engineering Project** (2025.1.31 ~ 2025.4.3)
+  
+   Participated as a backend developer & On-premise Infra/DevOps Engineer.
+
+   🔗 **_Project TrubleShooting Page_** _https://www.notion.so/19fd6d3f177080aeaf6af3393aad0dce_
 
 - **Suit** (2024.10 ~ 2025.1.16)
 
-  Participated as a backend developer, managing the server in a mobile app service for sales representatives
+  Participated as a backend developer, managing the server in a mobile app service for sales representatives.
 
 - **BoanLab, Undergraduate Researcher** (2023.1 ~ 2023.12)
 
-  2nd author of *'Association-based Distributed Tracing for Inter-Container Visibility'*, submitted to Korea Institute of Information Security & Cryptology (KIISC)
+  2nd author of *'Association-based Distributed Tracing for Inter-Container Visibility'*, submitted to Korea Institute of Information Security & Cryptology (KIISC).
 
 - **Dankook University, B.S. in Computer Engineering** (2020.3 ~ 2025.2)
 
