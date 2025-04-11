@@ -22,9 +22,9 @@ Undergraduate student at Computer Engineering
 
 <h2>🚀Experience</h2>
 
-- **goorm PROFECT Cloud Engineering Project** (2025.1.31 ~ Present)
+- **goorm PROFECT Cloud Engineering Project** (2025.1.31 ~ 2025.4.3)
 
-- **Suit** (2024.10 ~ Present)
+- **Suit** (2024.10 ~ 2025.1.16)
 
   Participated as a backend developer, managing the server in a mobile app service for sales representatives
 
