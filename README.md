@@ -24,7 +24,6 @@
   
    Participated as a backend developer & On-premise Infra/DevOps Engineer.
 
-   🔗 **_Project TrubleShooting Page_** _https://www.notion.so/19fd6d3f177080aeaf6af3393aad0dce_
 
 - **Suit** (2024.10 ~ 2025.1.16)
 
