@@ -20,7 +20,7 @@
 
 <h2>🚀Experience</h2>
 
-- **goorm PROFECT Cloud Engineering Project** (2025.1.31 ~ 2025.4.3)
+- **어디약** (2025.1.31 ~ )
   
    Participated as a backend developer & On-premise Infra/DevOps Engineer.
 
