@@ -25,7 +25,7 @@
    Participated as a backend developer & On-premise Infra/DevOps Engineer.
 
 
-- **Suit** (2024.10 ~ 2025.1.16)
+- **Suit** (2024.10 ~ 2025.1)
 
   Participated as a backend developer, managing the server in a mobile app service for sales representatives.
 
