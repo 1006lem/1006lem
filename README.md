@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
-☁️ **Devops / Cloud Engineer**
+☁️ **Devops Engineer**
 
 <br>
 
